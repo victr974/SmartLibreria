@@ -70,11 +70,11 @@
     <Compile Include="Productos Manualidades.Designer.cs">
       <DependentUpon>Productos Manualidades.cs</DependentUpon>
     </Compile>
-    <Compile Include="Productos.cs">
+    <Compile Include="CarritoCompras.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Productos.Designer.cs">
-      <DependentUpon>Productos.cs</DependentUpon>
+    <Compile Include="CarritoCompras.Designer.cs">
+      <DependentUpon>CarritoCompras.cs</DependentUpon>
     </Compile>
     <Compile Include="ProductosOficina.cs">
       <SubType>Form</SubType>
@@ -96,8 +96,8 @@
     <EmbeddedResource Include="Productos Manualidades.resx">
       <DependentUpon>Productos Manualidades.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Productos.resx">
-      <DependentUpon>Productos.cs</DependentUpon>
+    <EmbeddedResource Include="CarritoCompras.resx">
+      <DependentUpon>CarritoCompras.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProductosOficina.resx">
       <DependentUpon>ProductosOficina.cs</DependentUpon>

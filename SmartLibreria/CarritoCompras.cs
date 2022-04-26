@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SmartLibreria
 {
-    public partial class Productos : Form
+    public partial class Carrito_Compras : Form
     {
-        public Productos()
+        public Carrito_Compras()
         {
             InitializeComponent();
         }
