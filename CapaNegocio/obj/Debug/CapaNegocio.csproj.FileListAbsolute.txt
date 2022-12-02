@@ -1,0 +1,11 @@
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Yojana\Desktop\proyecto intecap 2022\SmartLibreria\CapaNegocio\obj\Debug\CapaNegocio.pdb
